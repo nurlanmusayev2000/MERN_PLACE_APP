@@ -1,0 +1,9 @@
+{
+	"env": {
+		"DB_USER": "nurlan",
+		"DB_PASSWORD": "qfZ15Y1plqJuDvL5",
+		"DB_NAME": "mern",
+		"GOOGLE_API_KEY": "AIzaSyCt1wFHuolnRrzPMiuSBsWj4YX-KYvpXy8",
+		"SECRET_KEY": "mysecretkeyformernproject"
+	}
+}
